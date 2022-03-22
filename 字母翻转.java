@@ -8,6 +8,8 @@ import java.util.Scanner;
  *
  * 1.编写一个方法，将一段文本中的各个单词的字母顺序翻转，
  * 例如："I like writing code best"，将变成"I ekil gnitirw edoc tseb"。
+ *
+ *也可以使用StringBuffer类的 reverse()方法
  */
 
 public class 字母翻转 {
